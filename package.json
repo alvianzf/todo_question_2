@@ -1,5 +1,5 @@
 {
-  "name": "todolist_question_1",
+  "name": "todolist_question_2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -24,6 +23,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "typescript": "^5.0.2",
-    "vite": "^4.3.9"
+    "vite": "^4.3.9",
+    "vite-plugin-simple-json-server": "^0.6.2"
   }
 }

@@ -8,7 +8,7 @@ interface Todo {
   created_at?: string;
 }
 
-const API_URL = 'https://your-api-url/todos';
+const API_URL = 'https://64acda339edb4181202fe0c5.mockapi.io/todo';
 
 export const fetchTodos = async (): Promise<Todo[]> => {
   try {
